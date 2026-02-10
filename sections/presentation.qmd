@@ -1,0 +1,60 @@
+## Data and reproducibility
+
+<br>
+
+:::: {.columns}
+
+::: {.column width=50%}
+**Data**
+
+- Acquisition (web scrapping)
+- Organisation (data base management)
+- Publishing
+
++ *add examples*
+:::
+
+::: {.column .center width=50%}
+**Reproductibility**
+
+- automatic data science pipeline (rcompendium)
+- Version control with Git
+- Collaboration with Github
+
+:::
+
+::::
+
+## Visualization and outreach
+
+:::: {.columns}
+
+::: {.column width=30%}
+**Data Dashboard**
+
+- Data visualization
+- Shiny apps
+ + *add example*
+
+:::
+
+::: {.column width=70%}
+**Outreach**
+
+- Website
+- Github organization
+
+:::
+
+::::
+
+## Tools and package
+
+*list the most relevant R-package from github*
+
+
+## Training
+
+*list the 6 training course and possible short formation during workshops*
+
+
