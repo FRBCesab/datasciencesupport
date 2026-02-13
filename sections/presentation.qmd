@@ -1,60 +1,245 @@
-## Data and reproducibility
+## {{< fa people-line >}}&nbsp; Who are we?
 
-<br>
+<br /><br /><br />
+
+:::: {.columns}
+
+::: {.column .center width=33%}
+![](./images/ds-nicolas.jpg){.avatar width=60%}
+<br/>
+**Nicolas CASAJUS**
+<br/>
+[<br/>**_Dedicated time:_** 35%]{.small}
+:::
+
+::: {.column .center width=33%}
+![](./images/ds-camille.jpg){.avatar width=60%}
+<br/>
+**Camille COUX**
+<br/>
+[<br/>**_Dedicated time:_** 60%]{.small}
+:::
+
+::: {.column .center width=33%}
+![](./images/ds-romain.jpg){.avatar width=60%}
+<br/>
+**Romain FRELAT**
+<br/>
+[<br/>**_Dedicated time:_** 70%]{.small}
+:::
+
+::::
+
+
+
+
+## {{< fa flask >}}&nbsp; Scientific background
+
+> List our interests (macroecology, biogeography, functional ecology, etc.)
+
+
+---
+
+
+<br /><br /><br />
 
 :::: {.columns}
 
 ::: {.column width=50%}
-**Data**
-
-- Acquisition (web scrapping)
-- Organisation (data base management)
-- Publishing
-
-+ *add examples*
+![](./images/data-lifecycle-0.png){width=80% fig-align="left"}
 :::
 
-::: {.column .center width=50%}
-**Reproductibility**
+::: {.column width=50%}
+<br/><br/><br/><br/>
 
-- automatic data science pipeline (rcompendium)
-- Version control with Git
-- Collaboration with Github
-
+![](./images/fair-principles.png){width=80% fig-align="right"}
 :::
 
 ::::
 
-## Visualization and outreach
+
+
+---
+
+<br />
+
+![](./images/reproducibility.png){width=75% fig-align="center"}
+
+
+## {{< fa database >}}&nbsp; Data management
+
+<br /><br />
+
 
 :::: {.columns}
 
-::: {.column width=30%}
-**Data Dashboard**
+::: {.column width=50%}
+#### {{< fa download >}}&nbsp; Data acquisition
 
-- Data visualization
-- Shiny apps
- + *add example*
-
+...
 :::
 
-::: {.column width=70%}
-**Outreach**
+::: {.column width=50%}
+#### {{< fa database >}}&nbsp; Database structuration
 
-- Website
-- Github organization
-
+...
 :::
 
 ::::
 
-## Tools and package
+<br />
 
-*list the most relevant R-package from github*
+:::: {.columns}
+
+::: {.column width=50%}
+#### {{< fa file-lines >}}&nbsp; DMP & metadata
+
+...
+:::
+
+::: {.column width=50%}
+#### {{< fa table >}}&nbsp; Data analysis
+
+...
+:::
+
+::::
+
+<br /><br />
 
 
-## Training
-
-*list the 6 training course and possible short formation during workshops*
+[{{< fa triangle-exclamation >}}&nbsp; **No hosting solution at the CESAB**]{.boxed}
 
 
+## {{< fa chart-pie >}}&nbsp; Visualization
+
+
+:::: {.columns}
+
+::: {.column width=50%}
+![Loiseau _et al._ (2020) [10.1038/s41467-020-18779-w](http://dx.doi.org/10.1038/s41467-020-18779-w)](./images/fig-loiseau-2020.png){width=85% fig-align="center"}
+:::
+
+::: {.column width=50%}
+![Mouillot _et al._ (2024) [10.1038/s41467-024-53241-1](https://doi.org/10.1038/s41467-024-53241-1)](./images/fig-mouillot-2024.png){width=80% fig-align="center"}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width=25%}
+:::
+
+::: {.column width=50%}
+![Loiseau _et al._ (2020) [10.1038/s41467-020-18779-w](http://dx.doi.org/10.1038/s41467-020-18779-w)](./images/fig-loiseau-2020-2.png){width=85% fig-align="center"}
+:::
+
+::: {.column width=25%}
+:::
+
+::::
+
+## {{< fa globe >}}&nbsp; Outreach
+
+<br /><br />
+
+> Examples of Dashboard, ShinyApp, Project website & GH organization
+
+
+
+## {{< fa code >}}&nbsp; Software development
+
+<br /><br />
+
+![Package repository: <https://frbcesab.r-universe.dev/>](./images/stickers.png){width=80% fig-align="center"}
+
+
+
+## {{< fa file-pen >}}&nbsp; Data & software papers
+
+<br />
+
+:::: {.columns}
+
+::: {.column width=33%}
+![](./images/paper-fishglob.png){width=80% fig-align="center"}
+:::
+
+::: {.column width=33%}
+![](./images/paper-woodiv.png){width=80% fig-align="center"}
+:::
+
+::: {.column width=33%}
+![](./images/paper-forcis.png){width=80% fig-align="center"}
+:::
+
+::::
+
+
+:::: {.columns}
+
+::: {.column width=50%}
+![](./images/paper-bridge.png){width=65% fig-align="center"}
+:::
+
+::: {.column width=50%}
+![](./images/paper-forcis2.png){width=65% fig-align="center"}
+:::
+
+::::
+
+
+
+## {{< fa graduation-cap >}}&nbsp; Training sessions
+
+
+<br /><br />
+
+:::: {.columns}
+
+::: {.column width=50%}
+<br /><br />
+
+**Mini workshops on**
+
+- Reproducible research
+- Version control w/ `git`
+- Data management
+- Systematic review
+:::
+
+::: {.column width=50%}
+![Course description: <https://frbcesab.github.io/content/courses.html>](./images/logo-training.png){width=60% fig-align="center"}
+:::
+
+::::
+
+
+---
+
+:::: {.columns}
+
+::: {.column .center width=40%}
+<br/><br/><br/><br/><br/><br/>
+
+**30 active projects** in 2026
+
+<br/> & <br/><br/>
+
+**3** data scientists...
+
+<br/><br/><br/><br/>
+
+{{< fa hand-point-right >}}&nbsp; **Let's coordinate!**
+
+:::
+
+::: {.column width=60%}
+![](./images/fig-groups-timeline.png){width=75% fig-align="right"}
+:::
+
+::::
+
+
+# {{< fa hand-spock >}}&nbsp; Welcome to the CESAB!
