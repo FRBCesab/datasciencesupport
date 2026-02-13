@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="images/readme/logo-readme.png" alt="Logo" width="200">
+  <img src="images/logo-title-slide.png" alt="Logo" width="200">
   <br>
   The Datascience at FRB-CESAB
   <br>
