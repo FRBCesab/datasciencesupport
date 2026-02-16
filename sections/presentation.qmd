@@ -1,6 +1,6 @@
 ## {{< fa people-line >}}&nbsp; Who are we?
 
-<br /><br /><br />
+<br /><br />
 
 :::: {.columns}
 
@@ -10,9 +10,6 @@
 **Nicolas CASAJUS**
 <br/>
 
-[{{< fa graduation-cap >}}&nbsp; Biogeography, <br/> Functional ecology]{.small}
-
-[{{< fa screwdriver-wrench >}}&nbsp; Web scrapping, API, <br/> R packages, GIS]{.small}
 
 <!-- [<br/>**_Dedicated time:_** 35%]{.small} -->
 
@@ -24,9 +21,7 @@
 **Camille COUX**
 <br/>
 
-[{{< fa graduation-cap >}}&nbsp; Ecological network <br/> structure in agroecosystems]{.small}
 
-[{{< fa screwdriver-wrench >}}&nbsp; Network, GLMM, <br/> socio-ecological systems, Python]{.small}
 
 <!-- [<br/>**_Dedicated time:_** 60%]{.small} -->
 :::
@@ -38,9 +33,7 @@
 <br/>
 
 
-[{{< fa graduation-cap >}}&nbsp; Marine ecology, <br/> Tropical farming systems]{.small}
 
-[{{< fa screwdriver-wrench >}}&nbsp; Spatio-temporal analysis <br/> GIS, dashboards]{.small}
 
 <!-- [<br/>**_Dedicated time:_** 70%]{.small} -->
 
@@ -48,7 +41,29 @@
 
 ::::
 
+<br />
 
+:::: {.columns}
+
+::: {.column .center width=33%}
+[{{< fa graduation-cap >}}&nbsp; Macroecology, Biogeography,<br/>Functional ecology, Climate change]{.small}
+
+[{{< fa screwdriver-wrench >}}&nbsp; Web scraping, API, R packages,<br/>GIS, SQL database, etc.]{.small}
+:::
+
+::: {.column .center width=33%}
+[{{< fa graduation-cap >}}&nbsp; Ecological network<br/>structure in agroecosystems]{.small}
+
+[{{< fa screwdriver-wrench >}}&nbsp; Network, GLMM,<br/>socio-ecological systems, Python]{.small}
+:::
+
+::: {.column .center width=33%}
+[{{< fa graduation-cap >}}&nbsp; Marine ecology,<br/>Tropical farming systems]{.small}
+
+[{{< fa screwdriver-wrench >}}&nbsp; Spatio-temporal analysis<br/>GIS, dashboards]{.small}
+:::
+
+::::
 
 
 ## {{< fa database >}}&nbsp; Data management
@@ -75,7 +90,7 @@
 
 :::
 
-::: {.column width=50%}
+::: {.column .center width=50%}
 
 ![](./images/data-lifecycle-0.png){width=70% fig-align="right"}
 ![](./images/fair-principles.png){width=70% fig-align="right"}
@@ -88,7 +103,7 @@
 <wa-icon name="diagram-predecessor"></wa-icon>
 <wa-icon name="gears"></wa-icon>
 
-## {{< fa diagram-project >}}&nbsp; Reproducible data analysis
+## {{< fa gears >}}&nbsp; Reproducible research
 <!-- or diagram-predecessor or gears--> 
 
 ![](./images/reproducibility.png){width=75% fig-align="center"}
@@ -123,6 +138,7 @@
 
 ::::
 
+<br/>
 
 :::: {.columns}
 
@@ -162,7 +178,7 @@
 :::
 
 ::: {.column width=50%}
-![[DRAGON data exploration tool](https://dragon-odonates.github.io/dragongis/)](./images/shiny-dragon.png){width=60% fig-align="center"}
+![Source: [DRAGON data exploration tool](https://dragon-odonates.github.io/dragongis/)](./images/shiny-dragon.png){width=60% fig-align="center"}
 :::
 
 ::::
@@ -191,11 +207,11 @@ https://startistic.shinyapps.io/GAIA_Dashboard/
 
 **Mini workshops on**
 
-- [Reproducible research](https://frbcesab.github.io/good-practices/)
-- [Version control w/ `git`](https://frbcesab.github.io/intro-git/)
+- Reproducible research &nbsp;[[{{< fa link >}}](https://frbcesab.github.io/good-practices/)]{.small}
+- Version control w/ git &nbsp;[[{{< fa link >}}](https://frbcesab.github.io/intro-git/)]{.small}
 - Data management
 - Systematic review
-- [Spatial analysis](https://frbcesab.github.io/spatial-r/)
+- Spatial analysis &nbsp;[[{{< fa link >}}](https://frbcesab.github.io/spatial-r/)]{.small}
 :::
 
 ::: {.column width=50%}
@@ -214,7 +230,7 @@ https://startistic.shinyapps.io/GAIA_Dashboard/
 
 **30 active projects** in 2026
 
-<br/> & <br/><br/>
+<br/> vs. <br/><br/>
 
 **3** data scientists...
 
