@@ -9,7 +9,13 @@
 <br/>
 **Nicolas CASAJUS**
 <br/>
-[<br/>**_Dedicated time:_** 35%]{.small}
+
+[{{< fa graduation-cap >}}&nbsp; Biogeography, <br/> Functional ecology]{.small}
+
+[{{< fa screwdriver-wrench >}}&nbsp; Web scrapping, API, <br/> R packages, GIS]{.small}
+
+<!-- [<br/>**_Dedicated time:_** 35%]{.small} -->
+
 :::
 
 ::: {.column .center width=33%}
@@ -17,7 +23,12 @@
 <br/>
 **Camille COUX**
 <br/>
-[<br/>**_Dedicated time:_** 60%]{.small}
+
+[{{< fa graduation-cap >}}&nbsp; Ecological network <br/> structure in agroecosystems]{.small}
+
+[{{< fa screwdriver-wrench >}}&nbsp; Network, GLMM, <br/> socio-ecological systems, Python]{.small}
+
+<!-- [<br/>**_Dedicated time:_** 60%]{.small} -->
 :::
 
 ::: {.column .center width=33%}
@@ -25,126 +36,62 @@
 <br/>
 **Romain FRELAT**
 <br/>
-[<br/>**_Dedicated time:_** 70%]{.small}
+
+
+[{{< fa graduation-cap >}}&nbsp; Marine ecology, <br/> Tropical farming systems]{.small}
+
+[{{< fa screwdriver-wrench >}}&nbsp; Spatio-temporal analysis <br/> GIS, dashboards]{.small}
+
+<!-- [<br/>**_Dedicated time:_** 70%]{.small} -->
+
 :::
 
 ::::
 
 
-
-
-## {{< fa flask >}}&nbsp; Scientific background
-
-> List our interests (macroecology, biogeography, functional ecology, etc.)
-
-
----
-
-
-<br /><br /><br />
-
-:::: {.columns}
-
-::: {.column width=50%}
-![](./images/data-lifecycle-0.png){width=80% fig-align="left"}
-:::
-
-::: {.column width=50%}
-<br/><br/><br/><br/>
-
-![](./images/fair-principles.png){width=80% fig-align="right"}
-:::
-
-::::
-
-
-
----
-
-<br />
-
-![](./images/reproducibility.png){width=75% fig-align="center"}
 
 
 ## {{< fa database >}}&nbsp; Data management
 
-<br /><br />
-
-
 :::: {.columns}
 
 ::: {.column width=50%}
+ 
+<br/> <br/>
+
 #### {{< fa download >}}&nbsp; Data acquisition
 
-...
-:::
+<br/>
 
-::: {.column width=50%}
 #### {{< fa database >}}&nbsp; Database structuration
 
-...
+<br/>
+
+#### {{< fa file-lines >}}&nbsp; Data Management Plan & metadata
+
+<br/> <br/> <br/>
+
+[{{< fa triangle-exclamation >}}&nbsp; **No hosting solution at the CESAB**]{.boxedleft}
+
+:::
+
+::: {.column width=50%}
+
+![](./images/data-lifecycle-0.png){width=70% fig-align="right"}
+![](./images/fair-principles.png){width=70% fig-align="right"}
+
 :::
 
 ::::
 
-<br />
+<wa-icon name="diagram-project"></wa-icon>
+<wa-icon name="diagram-predecessor"></wa-icon>
+<wa-icon name="gears"></wa-icon>
 
-:::: {.columns}
+## {{< fa diagram-project >}}&nbsp; Reproducible data analysis
+<!-- or diagram-predecessor or gears--> 
 
-::: {.column width=50%}
-#### {{< fa file-lines >}}&nbsp; DMP & metadata
-
-...
-:::
-
-::: {.column width=50%}
-#### {{< fa table >}}&nbsp; Data analysis
-
-...
-:::
-
-::::
-
-<br /><br />
-
-
-[{{< fa triangle-exclamation >}}&nbsp; **No hosting solution at the CESAB**]{.boxed}
-
-
-## {{< fa chart-pie >}}&nbsp; Visualization
-
-
-:::: {.columns}
-
-::: {.column width=50%}
-![Loiseau _et al._ (2020) [10.1038/s41467-020-18779-w](http://dx.doi.org/10.1038/s41467-020-18779-w)](./images/fig-loiseau-2020.png){width=85% fig-align="center"}
-:::
-
-::: {.column width=50%}
-![Mouillot _et al._ (2024) [10.1038/s41467-024-53241-1](https://doi.org/10.1038/s41467-024-53241-1)](./images/fig-mouillot-2024.png){width=80% fig-align="center"}
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width=25%}
-:::
-
-::: {.column width=50%}
-![Loiseau _et al._ (2020) [10.1038/s41467-020-18779-w](http://dx.doi.org/10.1038/s41467-020-18779-w)](./images/fig-loiseau-2020-2.png){width=85% fig-align="center"}
-:::
-
-::: {.column width=25%}
-:::
-
-::::
-
-## {{< fa globe >}}&nbsp; Outreach
-
-<br /><br />
-
-> Examples of Dashboard, ShinyApp, Project website & GH organization
+![](./images/reproducibility.png){width=75% fig-align="center"}
 
 
 
@@ -191,6 +138,47 @@
 
 
 
+
+
+## {{< fa chart-pie >}}&nbsp; Visualization
+
+
+:::: {.columns}
+
+::: {.column width=50%}
+![Loiseau _et al._ (2020) [10.1038/s41467-020-18779-w](http://dx.doi.org/10.1038/s41467-020-18779-w)](./images/fig-loiseau-2020.png){width=85% fig-align="center"}
+:::
+
+::: {.column width=50%}
+![Mouillot _et al._ (2024) [10.1038/s41467-024-53241-1](https://doi.org/10.1038/s41467-024-53241-1)](./images/fig-mouillot-2024.png){width=80% fig-align="center"}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width=50%}
+![Loiseau _et al._ (2020) [10.1038/s41467-020-18779-w](http://dx.doi.org/10.1038/s41467-020-18779-w)](./images/fig-loiseau-2020-2.png){width=85% fig-align="center"}
+:::
+
+::: {.column width=50%}
+![[DRAGON data exploration tool](https://dragon-odonates.github.io/dragongis/)](./images/shiny-dragon.png){width=60% fig-align="center"}
+:::
+
+::::
+
+<!--
+Examples of Dashboard, ShinyApp, Project website & GH organization
+GH organization 
+https://github.com/rivage-project
+https://github.com/PhenoFish
+
+Dashboards
+https://dragon-odonates.github.io/dragongis/
+https://startistic.shinyapps.io/GAIA_Dashboard/
+-->
+
+
 ## {{< fa graduation-cap >}}&nbsp; Training sessions
 
 
@@ -199,14 +187,15 @@
 :::: {.columns}
 
 ::: {.column width=50%}
-<br /><br />
+<br />
 
 **Mini workshops on**
 
-- Reproducible research
-- Version control w/ `git`
+- [Reproducible research](https://frbcesab.github.io/good-practices/)
+- [Version control w/ `git`](https://frbcesab.github.io/intro-git/)
 - Data management
 - Systematic review
+- [Spatial analysis](https://frbcesab.github.io/spatial-r/)
 :::
 
 ::: {.column width=50%}
@@ -237,6 +226,7 @@
 
 ::: {.column width=60%}
 ![](./images/fig-groups-timeline.png){width=75% fig-align="right"}
+
 :::
 
 ::::

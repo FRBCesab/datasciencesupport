@@ -54,7 +54,8 @@ $presentation-h3-font-size: 1.0em !default;
   margin-bottom: 2%;
 }
 
-.author, .affiliation {
+.author,
+.affiliation {
   color: #2d2d2b;
   font-size: 95%;
   padding: 0;
@@ -90,7 +91,8 @@ figcaption {
   font-size: 120%;
 }
 
-figure p, figure p img {
+figure p,
+figure p img {
   margin-bottom: 0;
   padding-bottom: 0;
 }
@@ -118,8 +120,10 @@ h2 {
   padding-bottom: 20px;
 }
 
-p, li, a {
- font-weight: 300; 
+p,
+li,
+a {
+  font-weight: 300;
 }
 
 .citation {
@@ -180,4 +184,10 @@ blockquote p {
 
 .avatar {
   border-radius: 500px;
+}
+
+.boxedleft {
+  padding: 0.75em !important;
+  border: 1px solid #2d2d2b;
+  border-radius: 10px;
 }
